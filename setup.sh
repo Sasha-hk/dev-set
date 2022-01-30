@@ -9,7 +9,7 @@ echo "Install python3"
 sudo apt install python3 virtualenv -y
 
 echo "Install docker"
-sudo apt install docker docker.io podman-docker -y
+sudo apt install docker.io docker-compose -y
 
 echo "Install VS Code"
 wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
