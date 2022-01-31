@@ -20,3 +20,6 @@ sudo apt install code
 echo "Install Google Chrome"
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb -y
+
+echo "Install Telegram"
+sudo apt install telegram-desktop -y

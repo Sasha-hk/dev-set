@@ -15,3 +15,4 @@ The script will run on a Debian-based operating system.
 - `virtuanenv`
 - `VS Code`
 - `Google Chroe`
+- `Telegram`
