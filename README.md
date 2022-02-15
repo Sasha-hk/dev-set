@@ -12,7 +12,7 @@ The script will run on a Debian-based operating system.
 - `docker`
 - `nodejs`
 - `python3`
-- `virtuanenv`
+- `virtualenv`
 - `VS Code`
 - `Google Chrome`
 - `Telegram`
