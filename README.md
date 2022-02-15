@@ -14,5 +14,5 @@ The script will run on a Debian-based operating system.
 - `python3`
 - `virtuanenv`
 - `VS Code`
-- `Google Chroe`
+- `Google Chrome`
 - `Telegram`
