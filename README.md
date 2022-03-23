@@ -1,4 +1,4 @@
-# Developer setup
+# 🧰 Developer setup
 
 A script to quickly install basic software for a developer
 
